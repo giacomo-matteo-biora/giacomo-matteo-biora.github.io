@@ -21,4 +21,4 @@ Work experience
 Skills
 ======
 * Programming Languages: Python, Bash
-* Languages: Italian, English, Russian ( working on it )
+* Languages: Italian, English, Russian ( working on it for a few days)
