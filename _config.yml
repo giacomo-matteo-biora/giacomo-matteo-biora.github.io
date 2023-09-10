@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: pages-themes/hacker@v0.2.0
 
 # Site Settings
 locale                   : "it-IT"
