@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/motherboard_computer_image.jpg){: .align-right width="300px"}
 👋🏼 Hello! I'm a 13-year-old boy passionate about computer science. 
 
 💻 I really like everything about it, from programming to hardware, AI, and more. My computer passion started when I was 11 years old when I read my first book on Python. 
