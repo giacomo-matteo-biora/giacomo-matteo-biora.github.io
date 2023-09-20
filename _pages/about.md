@@ -14,8 +14,8 @@ redirect_from:
 👋🏼 Hello! I'm a 13-year-old boy passionate about computer science. 
 
 💻 I really like everything about it, from programming to hardware, AI, and more. My computer passion started when I was 11 years old when I read my first book on Python. 
-
-##🌍 From there, a whole new world opened up, and I started studying by reading books, following YouTube courses, attending some university classes, and most recently, attending conferences. 
+---
+🌍 From there, a whole new world opened up, and I started studying by reading books, following YouTube courses, attending some university classes, and most recently, attending conferences. 
 
 👨‍🎓 I'm finishing up my middle school studies, and soon I'll be enrolling in high school. Of course, I've chosen to attend a technical institute specializing in computer science. This means I'll have five years of studying the subjects I love.
 
