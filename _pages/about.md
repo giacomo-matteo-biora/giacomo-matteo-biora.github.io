@@ -24,4 +24,4 @@ redirect_from:
 
 🤓 I'm very passionate about what interests me. When I dive into new topics, I can't stop thinking about them for months until a new subject comes along. I jump from AI to cybersecurity, from finance to cryptocurrencies...
 
-🔬 Fortunately, my father owns 2 Prusa printers and a Bambulab, so I'm also skilled in 3D printing and firmware.
+🔬 Fortunately, my father owns 2 Prusa printers and 2 Bambulab PS1, so I'm also skilled in 3D printing and firmware.
